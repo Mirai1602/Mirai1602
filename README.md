@@ -1,5 +1,5 @@
 Hi, people! I'm Mirai....
-A future Information System engineer (in a wait of start her education) with some previous knowlegment 'bout basic staments of progrmamming
+A  Information System engineer student, freshman
 I have some early experince working with:
 
 >HTML and CSS
